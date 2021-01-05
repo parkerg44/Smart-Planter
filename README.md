@@ -6,4 +6,4 @@ The project required a planter pot which I designed and 3D printed. The file for
 This project also required a small amount of soldering although if I were to build this project again I would recommend creating a PCB as soldering by hand without a PCB created a mess of wires and components. 
 
 Here is a video of the final project: 
-https://youtu.be/yob1mFEYgb
+https://youtu.be/yob1mFEYgb4
